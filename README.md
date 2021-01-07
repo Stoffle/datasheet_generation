@@ -2,6 +2,8 @@
 
 This repo is for generating statistics used in the datasheets found in the 'Causal Datasheet' paper.
 
+In this example, we assume the user is running on a linux/mac machine. 
+
 To run the code first install the python requirements from the requirements.txt; e.g.:
 
 `conda create --name <env> --file requirements.txt`

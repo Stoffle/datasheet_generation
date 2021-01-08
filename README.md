@@ -15,3 +15,6 @@ Following this, R, along with some R libraries must be installed (ensure R > 3.6
 Finally, one can then open the jupyter notebook with:
 
 `jupyter notebook`
+
+
+The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).

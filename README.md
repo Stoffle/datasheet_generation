@@ -16,6 +16,6 @@ Finally, one can then open the Jupyter notebook with:
 
 `jupyter notebook`
 
-or view the (notebook)[jupyter notebook](https://github.com/SurgoVentures/datasheet_generation/blob/master/run.ipynb) directly on Github.
+or view the [notebook](https://github.com/SurgoVentures/datasheet_generation/blob/master/run.ipynb) directly on Github.
 
 The contents of this repository are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
